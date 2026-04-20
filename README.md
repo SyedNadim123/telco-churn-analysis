@@ -7,7 +7,7 @@
 
 ## 📌 Project Overview
 
-Customer churn — when a customer stops using a service — is one of the most costly problems for telecom companies. Acquiring a new customer costs 5–7× more than retaining an existing one. This project builds a complete end-to-end data science pipeline to **identify which customers are likely to churn** before they leave, using real-world telecom data.
+Customer churn when a customer stops using a service is one of the most costly problems for telecom companies. Acquiring a new customer costs 5–7× more than retaining an existing one. This project builds a complete end-to-end data science pipeline to **identify which customers are likely to churn** before they leave, using real-world telecom data.
 
 The pipeline covers everything from raw data cleaning and exploratory analysis to customer segmentation and machine learning model comparison — providing both data-driven insights and actionable business recommendations.
 
@@ -276,7 +276,6 @@ jupyter notebook SAIKET_INTERNSHIP.ipynb
 | **Role** | Data Science Intern |
 | **Reference No.** | SKS/A2/C110478 |
 | **Date** | March 2026 |
-| **Specialisations** | Cloud Computing · Blockchain · Artificial Intelligence · Machine Learning |
 
 ---
 
